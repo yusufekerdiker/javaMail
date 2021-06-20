@@ -3,6 +3,7 @@
 
 <h2>Current Roadmap:</h2>
 <pre>
+!!!move project from netbeans to eclipse for better folder order and jar support <br>
 1.) WRITE BETTER AND MORE UNDERSTANDABLE README AND APP DESCRIPTION <br>
 2.) Add some in app screenshots to readme <br>
 3.) Add fullscreen button <br>
