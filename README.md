@@ -3,6 +3,8 @@
 
 <h3>Current Roadmap:</h3>
 <pre>
+WRITE BETTER AND MORE UNDERSTANDABLE README AND APP DESCRIPTION
+
 Add fullscreen button
 
 Add delete attachment
