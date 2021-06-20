@@ -7,7 +7,7 @@
 
 2.) Add fullscreen button
 
-3.)Add delete attachment
+3.) Add delete attachment
 
 4.) Make it responsive for fullscreen
 
