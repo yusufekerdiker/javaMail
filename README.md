@@ -3,19 +3,19 @@
 
 <h2>Current Roadmap:</h2>
 <pre>
-WRITE BETTER AND MORE UNDERSTANDABLE README AND APP DESCRIPTION
+1.) WRITE BETTER AND MORE UNDERSTANDABLE README AND APP DESCRIPTION
 
-Add fullscreen button
+2.) Add fullscreen button
 
-Add delete attachment
+3.)Add delete attachment
 
-Make it responsive for fullscreen
+4.) Make it responsive for fullscreen
 
-Create undo-redo button with memento pattern for message area
+5.) Create undo-redo button with memento pattern for message area
 
-Make the design "from \n mail", not "from: email"
+6.) Make the design "from \n mail", not "from: email"
 
-Add logging on every send mail button click
+7.) Add logging on every send mail button click
 
-Add custom JOptionPane and it will send string where it is used and that sent string will be printed inside the error box
+8.) Add custom JOptionPane and it will send string where it is used and that sent string will be printed inside the error box
 </pre>
