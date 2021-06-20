@@ -1,7 +1,7 @@
 <h1>javaMail</h1>
 <p>a basic java app with gui for sending mail.</p>
 
-<h3>Current Roadmap:</h3>
+<h2>Current Roadmap:</h2>
 <pre>
 WRITE BETTER AND MORE UNDERSTANDABLE README AND APP DESCRIPTION
 
