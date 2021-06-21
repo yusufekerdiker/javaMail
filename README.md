@@ -11,5 +11,6 @@
 6.) Create undo-redo button with memento pattern for message area <br>
 7.) Make the design "from \n mail", not "from: email" <br>
 8.) Add logging on every send mail button click <br>
-9.) Add custom JOptionPane and it will send string where it is used and that sent string will be printed inside the error box
+9.) Add custom JOptionPane and it will send string where it is used and that 
+sent string will be printed inside the error box
 </pre>
