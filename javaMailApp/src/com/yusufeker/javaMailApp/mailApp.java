@@ -574,7 +574,7 @@ public class mailApp extends javax.swing.JFrame {
         try {
         	undoRedo_Edit.undo(); // undo the text on message area
         } catch (Exception ex) {
-        	JOptionPane.showMessageDialog(this, "Slow down choom cannot undo anymore\n" + ex.getStackTrace(), "Error!", JOptionPane.ERROR_MESSAGE);
+        	JOptionPane.showMessageDialog(this, "Slow down choom cannot undo anymore!\n" + ex.getStackTrace(), "Error!", JOptionPane.ERROR_MESSAGE);
 		}
     }//GEN-LAST:event_undoBtnActionPerformed
 
@@ -582,7 +582,7 @@ public class mailApp extends javax.swing.JFrame {
         try {
         	undoRedo_Edit.redo(); // redo the text on message area
         } catch (Exception ex) {
-        	JOptionPane.showMessageDialog(this, "Slow down choom cannot undo anymore\n" + ex.getStackTrace(), "Error!", JOptionPane.ERROR_MESSAGE);
+        	JOptionPane.showMessageDialog(this, "Slow down choom cannot redo anymore!\n" + ex.getStackTrace(), "Error!", JOptionPane.ERROR_MESSAGE);
 		}
     }//GEN-LAST:event_redoBtnActionPerformed
 
