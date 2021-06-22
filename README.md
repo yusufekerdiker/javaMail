@@ -2,18 +2,18 @@
 <p>a basic java app with gui for sending mail.</p>
 
 <h4 align="center">In-app image</h4>
-<p style="text-align: center;">
+<p style="text-align: center;" align="center">
     <img src="materials/mail_selection.png" width="65%" height="auto">
 </p>
     
 
 <h4 align="center">Email provider menu</h4>
-<p style="text-align: center;">
+<p style="text-align: center;" align="center">
     <img src="materials/in_app_ui.png" width="65%" height="auto">
 </p>
 
 <h4 align="center">Attachment choosing screen</h4>
-<p style="text-align: center;">
+<p style="text-align: center;" align="center">
     <img src="materials/attachment_choosing.png" width="65%" height="auto">
 </p>
 
