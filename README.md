@@ -10,7 +10,7 @@
 <h3>Attachment choosing screen</h3>
 <img src="materials/attachment_choosing.png" width="50%" height="auto">
 
-<h2>Current Roadmap:</h2>
+<h2><strong>Current Roadmap:</strong></h2>
 <ul>
   <li>Writing better and more understandable readme and app description.</li>
   <li>Add some in app screenshots to readme</li>
