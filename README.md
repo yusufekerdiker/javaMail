@@ -8,7 +8,7 @@
 ![](materials/mail_selection.png)
 
 <h3>Attachment choosing screen</h3>
-![](materials/attachment_choosing.png)
+![](materials/attachment_choosing.png) 
 
 <h2>Current Roadmap:</h2>
 <pre>
