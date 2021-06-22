@@ -6,7 +6,7 @@
 
 <h4 align="right">Email provider menu</h4>
 <img src="materials/in_app_ui.png" width="45%" height="auto" align="right">
-
+<br>
 <h4 align="left">Attachment choosing screen</h4>
 <img src="materials/attachment_choosing.png" width="50%" height="auto" align="center">
 
