@@ -5,10 +5,10 @@
 <img src="materials/mail_selection.png" width="50%" height="auto">
 
 <h3>Email provider menu</h3>
-<img src="materials/in_app_ui.png">
+<img src="materials/in_app_ui.png" width="50%" height="auto">
 
 <h3>Attachment choosing screen</h3>
-<img src="materials/attachment_choosing.png">
+<img src="materials/attachment_choosing.png" width="50%" height="auto">
 
 <h2>Current Roadmap:</h2>
 <ul>
