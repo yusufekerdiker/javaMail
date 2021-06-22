@@ -2,6 +2,7 @@
 <p>a basic java app with gui for sending mail.</p>
 
 <h3>In-app image</h3>
+<img src="materials/in_app_ui.png">
 ![](materials/in_app_ui.png)
 
 <h3>Email provider menu</h3>
