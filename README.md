@@ -1,11 +1,15 @@
 <h1>javaMail</h1>
 <p>a basic java app with gui for sending mail.</p>
 
-<h4 align="left">In-app image</h4> <h4 align="right">Email provider menu</h4>
-<img src="materials/mail_selection.png" width="45%" height="auto" align="left"> <img src="materials/in_app_ui.png" width="45%" height="auto" align="right">
+<h4 align="center">In-app image</h4> 
+<img src="materials/mail_selection.png" width="65%" height="auto" align="center"> 
+
+<h4 align="center">Email provider menu</h4>
+<img src="materials/in_app_ui.png" width="65%" height="auto" align="center">
+
 <br>
-<h4 align="left">Attachment choosing screen</h4>
-<img src="materials/attachment_choosing.png" width="50%" height="auto" align="center">
+<h4 align="center">Attachment choosing screen</h4>
+<img src="materials/attachment_choosing.png" width="100%" height="auto" align="center">
 
 <h3><b>Current Roadmap:</b></h3>
 <ul>
