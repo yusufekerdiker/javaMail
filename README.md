@@ -1,6 +1,15 @@
 <h1>javaMail</h1>
 <p>a basic java app with gui for sending mail.</p>
 
+<h3>In-app image</h3>
+![](materials/in_app_ui.png)
+
+<h3>Email provider menu</h3>
+![](materials/mail_selection.png)
+
+<h3>Attachment choosing screen</h3>
+![](materials/attachment_choosing.png)
+
 <h2>Current Roadmap:</h2>
 <pre>
 1.) Writing better and more understandable readme and app description. <br>
