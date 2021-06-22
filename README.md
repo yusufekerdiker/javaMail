@@ -3,7 +3,7 @@
 
 <h2>Current Roadmap:</h2>
 <pre>
-1.) Writing metter and more understandable readme and app description. <br>
+1.) Writing better and more understandable readme and app description. <br>
 2.) Add some in app screenshots to readme <br>
 3.) Add fullscreen button <br>
 4.) Add delete attachment <br>
