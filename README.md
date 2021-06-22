@@ -11,14 +11,14 @@
 <img src="materials/attachment_choosing.png">
 
 <h2>Current Roadmap:</h2>
-<pre>
-1.) Writing better and more understandable readme and app description. <br>
-2.) Add some in app screenshots to readme <br>
-3.) Add fullscreen button <br>
-4.) Add delete attachment <br>
-5.) Make it responsive for fullscreen <br>
-6.) Create undo-redo button with memento pattern for message area <br>
-7.) Create log on every successfull send mail button click <br>
-8.) Add custom JOptionPane and it will send string where it is used and that 
-sent string will be printed inside the error box
-</pre>
+<ul>
+  <li>Writing better and more understandable readme and app description.</li>
+  <li>Add some in app screenshots to readme</li>
+  <li>Add fullscreen button</li>
+  <li>Add delete attachment</li>
+  <li>Make it responsive for fullscreen</li>
+  <li>Create undo-redo button with memento pattern for message area</li>
+  <li>Create log on every successfull send mail button click</li>
+  <li>Add custom JOptionPane and it will send string where it is used and that 
+    sent string will be printed inside the error box</li>
+</ul>
