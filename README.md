@@ -14,7 +14,7 @@
 
 <h4 align="center">Attachment choosing screen</h4>
 <p align="center">
-    <img src="materials/attachment_choosing.png" width="65%" height="auto">
+    <img src="materials/attachment_choosing.png" width="85%" height="auto">
 </p>
 
 <h3><b>Current Roadmap:</b></h3>
