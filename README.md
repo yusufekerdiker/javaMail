@@ -3,13 +3,12 @@
 
 <h3>In-app image</h3>
 <img src="materials/in_app_ui.png">
-![](materials/in_app_ui.png)
 
 <h3>Email provider menu</h3>
-![](materials/mail_selection.png)
+<img src="materials/mail_selection.png">
 
 <h3>Attachment choosing screen</h3>
-![](materials/attachment_choosing.png) 
+<img src="materials/attachment_choosing.png">
 
 <h2>Current Roadmap:</h2>
 <pre>
