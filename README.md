@@ -8,7 +8,7 @@
 <img src="materials/in_app_ui.png" width="50%" height="auto">
 
 <h4>Attachment choosing screen</h4>
-<img src="materials/attachment_choosing.png" width="50%" height="auto" float"right">
+<img src="materials/attachment_choosing.png" width="50%" height="auto" float="right">
 
 <h3><b>Current Roadmap:</b></h3>
 <ul>
