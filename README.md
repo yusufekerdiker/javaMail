@@ -19,6 +19,5 @@
   <li>Make it responsive for fullscreen</li>
   <li>Create undo-redo button with memento pattern for message area</li>
   <li>Create log on every successfull send mail button click</li>
-  <li>Add custom JOptionPane and it will send string where it is used and that 
-    sent string will be printed inside the error box</li>
+  <li>Add custom JOptionPane and it will send string where it is used and that sent string will be printed inside the error box</li>
 </ul>
